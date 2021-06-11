@@ -1,0 +1,69 @@
+Karel
+For Loop
+While Loop
+If Statement
+Else
+Function
+Parameter
+Return Value
+Pixar Night
+Simba
+CS106A
+Lists
+File Reading
+SimpleImage
+Pixel
+Ask Me Anything
+Pat Hanrahan
+Index
+Print
+Beeper
+Main
+Input
+Turn Right
+Khansole Academy
+Diagnostic
+String
+Integer
+Float
+Boolean
+Condition
+Body
+Range
+Style
+Animation
+Graphics
+Constant
+Nick Parlante
+Stanford
+Shelter-in-Place
+Code in Place
+Spotify
+Datascience
+Good Times
+Mehran Sahami
+Burrito
+Toaster
+Suitcase
+URL
+Chris Piech
+Teaching Team
+Gratitude
+Section Leader
+Sections
+Learn by Doing
+Everyone is Welcome
+Sandcastle
+GreenScreen
+Starter Code
+Python
+Doc Test
+Worked Examples
+Desiderata
+Bright Simons
+Ed
+Variable
+Reference
+TKinter
+Zoom
+For Each
